@@ -1,0 +1,2 @@
+F:\DeepLeaarningTools\Anaconda3
+F:\DeepLeaarningTools\Anaconda3\envs\pytorch
